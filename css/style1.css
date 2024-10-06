@@ -6,6 +6,7 @@
 }
 body{
     background: #0b5770;
+    overflow-x: hidden;
 
 }
 .card{
